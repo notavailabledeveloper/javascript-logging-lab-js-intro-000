@@ -187,7 +187,7 @@ we're now calling `console.log()` with a different string. Similarly, when we
 see the message "index calls console.warn()", we know that we can go back to our
 code and write something with `console.warn()`. You've got this!
 
-## Resources 4356789
+## Resources
 
 - [npm](https://npmjs.org)
 
